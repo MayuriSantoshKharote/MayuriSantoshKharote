@@ -20,3 +20,27 @@ Building Real-World AI Solutions
 - 🧠 Practicing **Data Structures & Algorithms in C++**
 - 🚀 **Microsoft Imagine Cup 2026 Participant**
 - 🌱 Currently strengthening my **Backend, AI & Cloud** skills
+
+- ## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase" />
+</p>
+
+### ☁️ Cloud & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
+</p>
+
+**Azure AI** • **Microsoft Foundry** • **Gemini** • **REST APIs**
+
+### 🔧 Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
