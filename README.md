@@ -100,6 +100,7 @@ A modern responsive portfolio website developed for a **real client** in digital
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MayuriSantoshKharote&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayuriSantoshKharote&layout=compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayuriSantoshKharote&theme=default" alt="Mayuri's GitHub Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayuriSantoshKharote&theme=default" alt="Most Used Languages" />
 </p>
