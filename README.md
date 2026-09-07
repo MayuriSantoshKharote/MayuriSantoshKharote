@@ -73,14 +73,7 @@ An AI-powered student guidance system built using a multi-agent architecture.
 
 ---
 
-## 🏆 Achievements & Learning
 
-- 🚀 **Microsoft Imagine Cup 2026 Participant** — Built and submitted SAKHI as an AI-powered women safety solution.
-- 🧠 **Microsoft Learn — AI-103 Learning Path** — Completed learning modules and assessments covering Azure AI apps, agents, Microsoft Foundry, tool integration, RAG, model optimization, and Responsible AI.
-- 🤖 **Google & Kaggle 5-Day AI Agents Intensive** — Learned agent architecture, orchestration, tools, security, and Human-in-the-Loop concepts.
-- 🥇 **Rank 58 among 55,000+ participants** — Unstop *CEO for a Day* competition.
-- 🏅 **3rd Rank — State-Level Poster Competition**
-- ☁️ Completed learning in **Prompt Engineering with Microsoft Copilot** and **Gemini for Google Workspace**.
 ### 🌐 Chaitanya's Digital Hub — Client Portfolio
 A modern responsive portfolio website developed for a **real client** in digital marketing and social media.
 
@@ -90,3 +83,15 @@ A modern responsive portfolio website developed for a **real client** in digital
 - 🚀 Deployed as a production website
 
 🔗 [View Repository](https://github.com/MayuriSantoshKharote/chaitanyatidke)
+
+
+
+
+## 🏆 Achievements & Learning
+
+- 🚀 **Microsoft Imagine Cup 2026 Participant** — Built and submitted SAKHI as an AI-powered women safety solution.
+- 🧠 **Microsoft Learn — AI-103 Learning Path** — Completed learning modules and assessments covering Azure AI apps, agents, Microsoft Foundry, tool integration, RAG, model optimization, and Responsible AI.
+- 🤖 **Google & Kaggle 5-Day AI Agents Intensive** — Learned agent architecture, orchestration, tools, security, and Human-in-the-Loop concepts.
+- 🥇 **Rank 58 among 55,000+ participants** — Unstop *CEO for a Day* competition.
+- 🏅 **3rd Rank — State-Level Poster Competition**
+- ☁️ Completed learning in **Prompt Engineering with Microsoft Copilot** and **Gemini for Google Workspace**.
