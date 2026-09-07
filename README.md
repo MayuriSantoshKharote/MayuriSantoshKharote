@@ -97,6 +97,19 @@ A modern responsive portfolio website developed for a **real client** in digital
 - ☁️ Completed learning in **Prompt Engineering with Microsoft Copilot** and **Gemini for Google Workspace**.
 
 
+## 🎓 Microsoft Learn
+
+I actively use Microsoft Learn to strengthen my skills in **Azure AI, AI agents, cloud technologies, and application development**, completing hands-on learning modules and assessments.
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/mayurisantoshkharote-4199/">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-View%20My%20Profile-258FFA?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+</p>
+
+⭐ Completed Microsoft Learn modules and assessments related to **AI-103: Developing AI Apps and Agents on Azure**.
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
