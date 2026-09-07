@@ -104,3 +104,19 @@ A modern responsive portfolio website developed for a **real client** in digital
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayuriSantoshKharote&theme=default" alt="Most Used Languages" />
 </p>
+
+
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayuri-kharote-7b485230a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Kharote-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://mayurikharote.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+📧 **Email:** mayurikharote2006@gmail.com
