@@ -44,3 +44,41 @@ Building Real-World AI Solutions
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
+
+
+## 🚀 Featured Projects
+
+### 🛡️ SAKHI — Hands-Free Women Safety System
+A voice-activated emergency assistance system designed to trigger SOS alerts without requiring manual phone interaction.
+
+- 🎙️ Detects multilingual emergency keywords using **Azure Speech**
+- 🧠 Processes distress-related text using **Azure AI Language**
+- 📍 Retrieves the user's live location
+- 📲 Sends WhatsApp SOS alerts to **4 trusted contacts**
+- ⚡ Built with **Node.js, Express.js, Firebase & Twilio**
+
+🔗 [View Repository](https://github.com/MayuriSantoshKharote/SAKHI-Womens-Safety-Assistant)
+
+---
+
+### 🤖 CampusPilot AI — Multi-Agent Student Guidance Platform
+An AI-powered student guidance system built using a multi-agent architecture.
+
+- 🧠 Orchestrator with specialized **Study, Career & Planning agents**
+- 🔐 Includes a security checkpoint and **Human-in-the-Loop**
+- ⚙️ Built with **FastAPI, React/Vite & Gemini 2.5 Flash**
+
+🔗 [View Repository](https://github.com/MayuriSantoshKharote/CampusPilot-AI)
+
+---
+
+### 🌐 Chaitanya's Digital Hub — Client Portfolio
+A modern responsive portfolio website developed for a **real client** in digital marketing and social media.
+
+- 🎨 Responsive modern interface
+- ✨ Smooth animations and interactions
+- 🧩 Custom branding and content sections
+- 🚀 Deployed as a production website
+
+🔗 [View Repository](https://github.com/MayuriSantoshKharote/chaitanyatidke)
