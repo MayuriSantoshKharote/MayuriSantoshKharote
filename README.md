@@ -118,11 +118,7 @@ I actively use Microsoft Learn to strengthen my skills in **Azure AI, AI agents,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayuriSantoshKharote&theme=default" alt="Most Used Languages" />
 </p>
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayuriSantoshKharote&theme=default" alt="Top Languages by Commit" />
-</p>
 
 
 ## 🤝 Connect With Me
