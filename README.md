@@ -95,3 +95,11 @@ A modern responsive portfolio website developed for a **real client** in digital
 - 🥇 **Rank 58 among 55,000+ participants** — Unstop *CEO for a Day* competition.
 - 🏅 **3rd Rank — State-Level Poster Competition**
 - ☁️ Completed learning in **Prompt Engineering with Microsoft Copilot** and **Gemini for Google Workspace**.
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MayuriSantoshKharote&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayuriSantoshKharote&layout=compact&hide_border=true" />
+</p>
